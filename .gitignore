@@ -1,0 +1,4 @@
+node_modules/
+.env
+.DS_Store
+# and any other files or folders to be ignored
